@@ -1,3 +1,7 @@
+# About the app
+
+This project is a signup an interactive signup page build with react and css for users ro create account with email and password and a checkbox to subscribe to the news letter
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
