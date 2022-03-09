@@ -1,0 +1,28 @@
+body{
+  background: purple;
+}
+.body{
+  background: #fff;
+  width: 400px;
+  height: 300px;
+  border-radius: 10px;
+  margin: 40px auto;
+}
+.form{
+  padding: 30px 50px;
+}
+.input{
+  border: 1px solid gray;
+  width: 90%;
+  margin: 10px;
+  height: 30px;
+  border-radius: 5px;
+}
+.submit{
+  background: purple;
+  border: none;
+  height: 40px;
+  width: 120px;
+  border-radius: 5px;
+  color: #fff;
+}
